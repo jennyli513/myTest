@@ -1,0 +1,4 @@
+function printHello()
+{
+    return "Hello";
+}

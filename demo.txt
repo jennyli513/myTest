@@ -1,1 +1,12 @@
 This is the demo
+text git add -A
+
+this is commit A
+
+this is commit B
+
+This is commit C
+
+other new commit X
+ other new commit Y
+ other new commit Z
