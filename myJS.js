@@ -1,4 +1,0 @@
-function printHello()
-{
-    return "Hello";
-}
